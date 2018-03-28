@@ -5,7 +5,9 @@ VisualStudioVersion = 15.0.27130.2010
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tutorial5-1AccountBalance", "ChapterFiveCode\Tutorial5-1AccountBalance.csproj", "{38CADBF7-F4F5-4189-A6CE-8C2E697E39F4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Turorial5-2EndingBalance", "EndingBalance\Turorial5-2EndingBalance.csproj", "{FBFBA908-ED85-492A-9423-8C3D2DCA732E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tutorial5-2EndingBalance", "EndingBalance\Tutorial5-2EndingBalance.csproj", "{FBFBA908-ED85-492A-9423-8C3D2DCA732E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tutorial5-3forLoop", "Tutorial5-3forLoop\Tutorial5-3forLoop.csproj", "{D08AC446-6ADC-42E4-9DE5-D421844B33B7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{FBFBA908-ED85-492A-9423-8C3D2DCA732E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FBFBA908-ED85-492A-9423-8C3D2DCA732E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FBFBA908-ED85-492A-9423-8C3D2DCA732E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D08AC446-6ADC-42E4-9DE5-D421844B33B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D08AC446-6ADC-42E4-9DE5-D421844B33B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D08AC446-6ADC-42E4-9DE5-D421844B33B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D08AC446-6ADC-42E4-9DE5-D421844B33B7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
